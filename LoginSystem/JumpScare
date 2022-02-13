@@ -1,1 +1,8 @@
 
+Well heres what we know so far.
+
+All things in main are carried to other branches. Sorta like inheretancce (yk....).
+So just add general things like, Readme , lisence , maybe a help me type thing. Nothing too specfic to any branch.
+
+If you want to add a calculator program, just make a new branch and add it there. That will make it unique to that branch, adding it to main will make it avalible
+to every other branch. Dont want that now do we.
